@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WordWiz</string>
+    <string name="error_message">
+        We couldn\'t find any words that match your search, please try different keywords.
+    </string>
+    <string name="retry">Retry</string>
+    <string name="example">E.g. %s</string>
+    <string name="no_example">No example available</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search for a word</string>
+    <string name="empty_search">What word are you \n
+        curious about for today?</string>
+</resources>
